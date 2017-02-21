@@ -1,2 +1,2 @@
-# iosusr.github.io
-Cydia Repo
+# osxusr.github.io
+iosusrs Public Cydia Repo
