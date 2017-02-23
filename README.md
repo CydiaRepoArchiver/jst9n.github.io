@@ -1,2 +1,2 @@
 # osxusr.github.io
-iosusrs Public Cydia Repo
+This repo is iosusrs public cydia repo
