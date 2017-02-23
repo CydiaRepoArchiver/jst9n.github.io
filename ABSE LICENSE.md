@@ -11,7 +11,3 @@ In the unlikely event that you happen to make a zillion bucks off of this, then 
 EXCEPTIONS
 
 Stefan Esser (i0n1c, that one angry german guy, etc.) may not make use of or redistrubute this program or any of its derivatives.
-
-CREDITS
-
-The software uses code written by Stefan Esser (i0n1c) without his consent.
