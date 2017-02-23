@@ -21,7 +21,7 @@ Do not install things that are untested.
 > DO NOT DOWNLOAD THIS SOFTWARE FROM OTHER SOURCES OTHER THAN THIS LINK UNDER ANY CIRCUMSTANCE. IT IS VERY EASY TO BACKDOOR THIS SORT OF SOFTWARE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
 
 * Download the pre-compiled version from the table below.
-* Install using Cydia, (edit then add) and add the repo (http://oxusr.github.io).
+* Install using Cydia, (edit then add) and add the repo (http://osxusr.github.io).
 
 
 | Repo source link |
