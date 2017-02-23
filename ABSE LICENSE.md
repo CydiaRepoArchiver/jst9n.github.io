@@ -2,7 +2,7 @@ This piece of code is licensed under the "Anyone but Stefan Esser" (ABSE) licens
 
 The "Anyone But Stefan Esser" license
 
-Do anyhting you want with this code, with the exceptions listed below under "EXCEPTIONS".
+Do anything you want with this code, with the exceptions listed below under "EXCEPTIONS".
 
 THIS CODE IS PROVIDED "AS IS" WITH NO WARREANTY OF ANY KIND.
 
