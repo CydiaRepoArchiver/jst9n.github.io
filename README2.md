@@ -12,7 +12,7 @@ In the near future, the cydia repo will add more packages:
 
 | Device  | Version  |
 |---------|----------|
-| iPhone  | iOS 10.0.0 -> iOS 10.2 |
+| 64-Bit Devices | iOS 10.0.0 -> iOS 10.2 |
 
 ## Warnings
 
