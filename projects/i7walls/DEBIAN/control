@@ -1,7 +1,7 @@
 Package: com.iosusr.i7walls
 Name: i7walls
 Depends: 
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: iPhone 7 wallpapers
 Maintainer: iosusr <iosusr@outlook.com>
