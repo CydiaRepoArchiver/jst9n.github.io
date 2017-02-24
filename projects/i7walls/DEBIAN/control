@@ -1,6 +1,6 @@
 Package: com.iosusr.i7walls
 Name: i7walls
-Depends: winterboard
+Depends: Winterboard
 Version: 1.0
 Architecture: iphoneos-arm
 Description: iPhone 7 wallpapers
