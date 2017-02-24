@@ -1,0 +1,11 @@
+Package: com.iosusr.taiguntether83x
+Name: taiguntether83x
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: untethered jailbreak for 8.3 using Taig
+Maintainer: iosusr <iosusr@outlook.com>
+Author: iosusr <iosusr@outlook.com>
+Section: Utilities
+
+
