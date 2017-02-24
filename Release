@@ -1,9 +1,9 @@
-Origin: iosusrs public cydia repo
-Label: iosusrs public cydia repo
+Origin: iosusrs cydia repo
+Label: iosusrs cydia repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: iosusrs public cydia repo
-MD5Sum:
+Description: iosusrs cydia repo
+
