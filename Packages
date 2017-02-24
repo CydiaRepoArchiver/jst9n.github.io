@@ -2,12 +2,11 @@ Package: com.iosusr.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
-Depends: 
-Filename: ./debs/com.iosusr.i7walls_1.0_iphoneos-arm.deb
-Size: 894
-MD5sum: 212400677c6973de0c75c7f82d06ab66
-SHA1: 209fda4cd071d763d66521016a6006c1730777b4
-SHA256: d82bdcb00d886e6a744242eb32d77786ce41aaad9439eda0ccc80a4a40af0f67
+Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
+Size: 874
+MD5sum: d23e6b24d5c29a2a6a9a46502e3b0cee
+SHA1: 83bcdb7b12225b761d79c3ac79b2d7c9e27d6c1b
+SHA256: f6cdeed4d742b0d255b19d0f0d00a8a9c3355cc2d57bd9e116785b93de42de0e
 Section: Themes
 Description: iPhone 7 wallpapers
 Author: iosusr <iosusr@outlook.com>
