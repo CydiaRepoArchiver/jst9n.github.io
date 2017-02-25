@@ -63,7 +63,7 @@ Author: TaiG
 Depiction: http://www.taig.com/cydia/update8.html
 Name: TaiG 8.1.3-8.x Untether
 
-Package: com.aerialx.ishshit
+Package: com.iosusr.ishshit
 Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
@@ -76,7 +76,7 @@ SHA256: 4582a91cc53b1b809d48af21f36677036f56a2e32359f92734c7d6b551d1bf63
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Description: Easily backup firmware SHSH blobs “Updated to Support iOS 9 will add more devices in the future”!
-Author: Aaron Lindsay <aaron@aaronlindsay.com>
+Author: iosusr <iosusr@outlook.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Dev: aerialx
 Icon: file:///Applications/iSHSHit.app/Icon.png
