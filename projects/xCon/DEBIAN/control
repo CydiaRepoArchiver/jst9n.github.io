@@ -4,8 +4,8 @@ Depends: mobilesubstrate
 Version: 42~beta2
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection
-Maintainer: iosusr
-Author: iosusr
+Maintainer: iosusr <iosusr@outlook.com>
+Author: iosusr <iosusr@outlook.com>
 Section: Tweaks
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner

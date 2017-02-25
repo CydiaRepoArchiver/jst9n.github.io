@@ -1,5 +1,5 @@
-Author: John Coates <acapulco1988@gmail.com>
-Maintainer: Steve Jobs <scunkaneli@iphone-partisanen.com>
+Author: iosusr <iosusr@outlook.com>
+Maintainer: iosusr <iosusr@outlook.com>
 Name: Flex
 Package: com.iosusr.flex
 Depends: firmware(>= 5.0), mobilesubstrate
