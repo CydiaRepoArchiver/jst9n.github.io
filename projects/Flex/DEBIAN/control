@@ -1,0 +1,11 @@
+Author: John Coates <acapulco1988@gmail.com>
+Maintainer: Scunkaneli <scunkaneli@iphone-partisanen.com>
+Name: Flex
+Package: boerse.flex
+Depends: firmware(>= 5.0), mobilesubstrate
+Section: Boerse.BZ
+Installed-Size: 763
+Version: 1.05
+Architecture: iphoneos-arm
+Description: Make your own tweaks, easily!
+Depiction: http://boerse-repo.net/depiction/d.php?package_id=boerse.flex
