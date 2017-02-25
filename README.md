@@ -8,7 +8,7 @@ Please use the "Issues" tab for **code related** issues only. If you need suppor
 
 ### Planned Support:
 
-In the near future, i will add more packages to the cydia repo.
+In the near future, i will add more packages/debs to the cydia repo.
 
 ## Warnings
 
