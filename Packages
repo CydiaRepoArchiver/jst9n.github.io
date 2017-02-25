@@ -1,18 +1,17 @@
 Package: boerse.flex
 Version: 1.05
 Architecture: iphoneos-arm
-Maintainer: Scunkaneli <scunkaneli@iphone-partisanen.com>
+Maintainer: BallsDeep <scunkaneli@iphone-partisanen.com>
 Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/boerse.flex_1.05_iphoneos-arm.deb
-Size: 413456
-MD5sum: 50ae7bce4db13a91da263185f271511e
-SHA1: 2fcea8b1093e47c51119d412bca3a6104fa53a72
-SHA256: 121f57b8ae8fc14eeff238516fd8cc6ba01525c2f3973b301b77afeed6fcde7e
-Section: Boerse.BZ
+Size: 413420
+MD5sum: 6b3e1bcb423579ceea93a4923b37359c
+SHA1: ccda2a0ae2c0f0e3a5e46334b7c754b7904f1eb3
+SHA256: 936c6060d67cbbc1d67380175c7e5fc67370f89225459697d8a3dbd5c2926935
+Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
-Depiction: http://boerse-repo.net/depiction/d.php?package_id=boerse.flex
 Name: Flex
 
 Package: com.iosusr.i7walls
@@ -22,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Depends: firmware(>= 5.0), WinterBoard
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923518
-MD5sum: cdeb8d885207cbed68bf2ebe3bb4ffe3
-SHA1: c12873655b581eb24291bdb163111d35c4b5a351
-SHA256: 286a648999d536a557a697a4936651c1d494ec8a3e7c155231a7065a34ef45ba
+MD5sum: b88766973c9113deb83fd404eb4b56fa
+SHA1: f70789b8b7398a6bd2d25653917c1fa35393dad2
+SHA256: b863b8a4f9663944279acdc9e2f794c44d19197ea9f6f2b0fc96b1d42d177887
 Section: Wallpapers
 Description: iPhone 7 wallpapers
 Author: iosusr <iosusr@outlook.com>
@@ -36,9 +35,9 @@ Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Filename: ./debs/com.iosusr.taiguntether83x_1.0_iphoneos-arm.deb
 Size: 648
-MD5sum: 5fa187001b6d78257260c889a73038c8
-SHA1: f4b4eeccea308d4b594a6e6dbb43a4520987a3fd
-SHA256: c201c31085d7e812381549e40ae37f50373cd38e01ba298d67b90d88b314faeb
+MD5sum: d8e799e5c9d44302653135069b9b0e61
+SHA1: 6a26d7d40081d790848ac86e5510deabda3c2896
+SHA256: 7f6f8413c3aba7781870733d28df9815773753fff460fb21b5c301f51a609b65
 Section: Utilities
 Description: untethered jailbreak for 8.3 using Taig
 Author: iosusr <iosusr@outlook.com>
