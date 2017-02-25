@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413420
-MD5sum: 6caab5aedd42bfa726ea890ab2a9ee5d
-SHA1: 8d21b90a04453d60447ebb6078580733a8b47ebd
-SHA256: 87d80a9f4a2be39c405ccb1a3372254168d6b4c96f20b3fb419de679f73811b3
+MD5sum: a744a62318825928ec377d909aa69bf5
+SHA1: a9f4ae61a347002a7ff00e444581463431059e8e
+SHA256: 21c9ed464462fad4bad19225d684f1b27f6e3347436bad567d3db90d82f9be59
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Depends: firmware(>= 5.0), WinterBoard
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923520
-MD5sum: 97e0f9448878c8d24d7576f9d90a247b
-SHA1: 4ffdb3c55944fed497f1811619e51fe9b17f5a3a
-SHA256: 31e3b3657df6c47309260d83cace03173297f3f6b62f764bdf079a21ac570432
+MD5sum: f07085c4edbc906cc13a3ad20cf934cd
+SHA1: 1ec07f14f688431e7aba1a78a391a1d0771d8f15
+SHA256: c21704e3897597d7a061c1ff35a4acddedb03af9cceff0796e17296295c6e8d0
 Section: Wallpapers
 Description: iPhone 7 wallpapers
 Author: iosusr <iosusr@outlook.com>
@@ -35,11 +35,30 @@ Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Filename: ./debs/com.iosusr.taiguntether83x_1.0_iphoneos-arm.deb
 Size: 648
-MD5sum: 01c743e71ebc9bc090d2d5d6de692c6c
-SHA1: c2951a8a1c6334b557da4b10e5ce701421b4dac9
-SHA256: 0b9e80b432552e95b13d3f42a53aa15216d5886eac0b06a4147e1c04ac1e141f
+MD5sum: c52719cf3d6abd1af7260c590b59efb5
+SHA1: db0047563e49f23ac0915419d579bfcf8607e797
+SHA256: 4cf27a75dcae3f0fd0137942dfb516ff3321e7b4c5d5ccd95f7a8b0ab197a7b4
 Section: Utilities
 Description: untethered jailbreak for 8.3 using Taig
 Author: iosusr <iosusr@outlook.com>
 Name: taiguntether83x
+
+Package: com.n00neimp0rtant.xcon
+Version: 42~beta2
+Architecture: iphoneos-arm
+Maintainer: Lunatik
+Installed-Size: 515
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Filename: ./debs/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
+Size: 142408
+MD5sum: 96214b18d7da6947dc425beca4d4368c
+SHA1: aed7ca0f0a021d6615dc5d5edf42ec7aba3863eb
+SHA256: 509ced065d014e95f66d89be64b967fda32df4bfe51dcb54aa290b9936882a0a
+Section: Tweaks
+Description: bypass anti-jailbreak protection
+Author: Lunatik
+Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
+Name: xCon
 
