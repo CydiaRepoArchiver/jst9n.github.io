@@ -1,12 +1,13 @@
 Author: John Coates <acapulco1988@gmail.com>
 Maintainer: BallsDeep <scunkaneli@iphone-partisanen.com>
 Name: Flex
-Package: boerse.flex
+Package: com.iosusr.flex
 Depends: firmware(>= 5.0), mobilesubstrate
 Section: Tweak
 Installed-Size: 763
 Version: 1.05
 Architecture: iphoneos-arm
 Description: Make your own tweaks, easily!
+
 
 
