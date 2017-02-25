@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413420
-MD5sum: a3612b0adb47eabbc13bbf2aba3edc6e
-SHA1: e3e806c5510501f0634ccb4669aad80c692149b5
-SHA256: fad8979d33101067a3098aff568bed98296bc5474bca218134d934caab3f5f26
+MD5sum: 59af108258b29d354f1373b004c6cbd5
+SHA1: b34381d6420ef9e46015a66c1094baf8065f0d5c
+SHA256: 87b685a7eba67c7333420744b836303b528ed38241340a74abe5b16666113dda
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
@@ -22,9 +22,9 @@ Installed-Size: 60280
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923670
-MD5sum: 1d45d12bef0d96c7ba065224c55767e8
-SHA1: 403477dd18653f8a66cb9e0c94349765e142143a
-SHA256: 50cc20fa4dbba30a68da125400153f547e8ade786ff2f40834c4bdf9f8ac72bb
+MD5sum: 7280491de703e3fc897fcefb491a24f3
+SHA1: f950d5b96071d21b302e3ee22becc9371473337c
+SHA256: fe49191ec005f0e0108adf944161ec9367ba41585880f25c90dd262317a56885
 Section: System
 Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
 Tag: role::developer
@@ -41,9 +41,9 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
 Size: 142342
-MD5sum: 87e0f2126f95383b66aea079f9805dcd
-SHA1: adf3beb0fc616fc05dcf71f874a8ef372259c380
-SHA256: c88da21d6566245a89e99d5971041e21fcd3ade6c82199b96ec1aae1965258f1
+MD5sum: 9636b0dd61aada8efd278d32f909f795
+SHA1: a8b8ce84525e31d66246e86c70d3240515aa4197
+SHA256: 2c63f00f7cfb6f11fa18ae5553f687511dccbec48f1792e43dd92f29ae47fc65
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: Lunatik
@@ -56,10 +56,10 @@ Architecture: iphoneos-arm
 Essential: yes
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
-Size: 96872
-MD5sum: 11dd23ed1b3806643f46536990d207f3
-SHA1: 7ea128b5746fb6425ecc761d307d12f7bd9af51c
-SHA256: 4c8ff5734a33bc522de0c9691cbcf6ce9c9da8dd48aa7ab4687e2a371c830551
+Size: 96868
+MD5sum: d270a5b247b0412920bd2dc6b2e1462f
+SHA1: 593784f3b0a71672f09af17833ede14a649e696b
+SHA256: de5f1a592121f8bb50e297e0420833ecc317cae026c0b3b775aa62417afe33ed
 Section: System
 Priority: Important
 Description: taig untether jailbreak for ios8.1.3-ios8.3
