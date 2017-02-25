@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ -f "/taig/taig" ]; then
+	echo "taig jailbreak"
+else
+	echo "not taig jailbreak"
+	exit 1
+fi
+
+echo

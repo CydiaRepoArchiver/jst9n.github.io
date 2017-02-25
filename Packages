@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413420
-MD5sum: a744a62318825928ec377d909aa69bf5
-SHA1: a9f4ae61a347002a7ff00e444581463431059e8e
-SHA256: 21c9ed464462fad4bad19225d684f1b27f6e3347436bad567d3db90d82f9be59
+MD5sum: 68fab9d1ae5ecb86fd565f7b58abdb9c
+SHA1: 972f188076f701f04703ea56977237523b74107d
+SHA256: f57531e3b554b446ef05e499cd321d053127b58892c6c18eb63d4c333025d867
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
@@ -18,30 +18,18 @@ Package: com.iosusr.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
-Depends: firmware(>= 5.0), WinterBoard
+Installed-Size: 60280
+Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
-Size: 1923520
-MD5sum: f07085c4edbc906cc13a3ad20cf934cd
-SHA1: 1ec07f14f688431e7aba1a78a391a1d0771d8f15
-SHA256: c21704e3897597d7a061c1ff35a4acddedb03af9cceff0796e17296295c6e8d0
-Section: Wallpapers
-Description: iPhone 7 wallpapers
+Size: 1923666
+MD5sum: 310cf7957038bf25212d2878222dc76d
+SHA1: 0b9acc6f49a371df154a10b8ebe167e3010730ca
+SHA256: 3320c840236e3fd4a303a4f6ee0c69da8fc460160d79fef566982d204b46f9d7
+Section: System
+Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
+Tag: role::developer
 Author: iosusr <iosusr@outlook.com>
-Name: i7walls
-
-Package: com.iosusr.taiguntether83x
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iosusr <iosusr@outlook.com>
-Filename: ./debs/com.iosusr.taiguntether83x_1.0_iphoneos-arm.deb
-Size: 648
-MD5sum: c52719cf3d6abd1af7260c590b59efb5
-SHA1: db0047563e49f23ac0915419d579bfcf8607e797
-SHA256: 4cf27a75dcae3f0fd0137942dfb516ff3321e7b4c5d5ccd95f7a8b0ab197a7b4
-Section: Utilities
-Description: untethered jailbreak for 8.3 using Taig
-Author: iosusr <iosusr@outlook.com>
-Name: taiguntether83x
+Name: iPhone 7 wallpapers
 
 Package: com.n00neimp0rtant.xcon
 Version: 42~beta2
@@ -52,13 +40,30 @@ Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
-Size: 142408
-MD5sum: 96214b18d7da6947dc425beca4d4368c
-SHA1: aed7ca0f0a021d6615dc5d5edf42ec7aba3863eb
-SHA256: 509ced065d014e95f66d89be64b967fda32df4bfe51dcb54aa290b9936882a0a
+Size: 142342
+MD5sum: 2c2afb958f569bd8b7ecd0a4bb3e77bf
+SHA1: 9e2f1223d8cebbbb96aadcff294a9a62edf5bbd2
+SHA256: a2e16c1a8e01769dba799613119b9fc842c32b67519074400d9fee49a244c621
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: Lunatik
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Name: xCon
+
+Package: taiguntether83x
+Version: 2.1
+Architecture: iphoneos-arm
+Essential: yes
+Depends: firmware (>= 8.1.3),firmware (<= 8.3)
+Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
+Size: 96870
+MD5sum: e517bf3774370b9fbf94a9cf4060daf3
+SHA1: 9e9c453170c6dbc7c4b7d68d6171a9260866c15c
+SHA256: 09f06c5452d71af6c7c4fd6baeda84242d2c6a9bdb9e25ee773030a148909272
+Section: System
+Priority: Important
+Description: taig untether jailbreak for ios8.1.3-ios8.3
+Author: TaiG
+Depiction: http://www.taig.com/cydia/update8.html
+Name: TaiG 8.1.3-8.x Untether
 

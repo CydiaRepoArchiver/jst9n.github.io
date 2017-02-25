@@ -1,12 +1,12 @@
 Package: com.iosusr.i7walls
-Name: i7walls
-Depends: firmware(>= 5.0), WinterBoard
-Version: 1.1
+Name: iPhone 7 wallpapers
+Conflicts: livewallpapers6plus, livewallpapers
+Depends: 
 Architecture: iphoneos-arm
-Description: iPhone 7 wallpapers
+Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
 Maintainer: iosusr <iosusr@outlook.com>
 Author: iosusr <iosusr@outlook.com>
-Section: Wallpapers
-
-
-
+Section: System
+Tag: role::developer
+Version: 1.1
+Installed-Size: 60280
