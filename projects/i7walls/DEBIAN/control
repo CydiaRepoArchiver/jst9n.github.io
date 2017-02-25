@@ -3,7 +3,7 @@ Name: iPhone 7 wallpapers
 Conflicts: livewallpapers6plus, livewallpapers
 Depends: 
 Architecture: iphoneos-arm
-Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
+Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Maintainer: iosusr <iosusr@outlook.com>
 Author: iosusr <iosusr@outlook.com>
 Section: System
