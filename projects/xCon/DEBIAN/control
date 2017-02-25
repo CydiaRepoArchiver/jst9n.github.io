@@ -1,11 +1,11 @@
-Package: com.n00neimp0rtant.xcon
+Package: com.iosusr.xcon
 Name: xCon
 Depends: mobilesubstrate
-Version: 42~beta2
+Version: 43
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection
-Maintainer: Lunatik
-Author: Lunatik
+Maintainer: iosusr
+Author: iosusr
 Section: Tweaks
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
