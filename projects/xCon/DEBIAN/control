@@ -1,7 +1,7 @@
 Package: com.osxusr.xcon
 Name: xCon
 Depends: mobilesubstrate
-Version: 43
+Version: 42~beta2
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection
 Maintainer: iosusr

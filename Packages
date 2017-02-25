@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413420
-MD5sum: b7d5cf940d65cfc6e077c14f53619d8a
-SHA1: 4f314b319dce2f958281cd757b7f60fb068b6709
-SHA256: 455509a3bb2a235a9a97895d02d2fe8aca2ef9ec5b3849f84cc56b2527547007
+MD5sum: 8ccc213bf4a2fb45e63e01bd9a7a137c
+SHA1: e6fe793bc2d389d03291078f85b8dd876b041074
+SHA256: 7e56c19318794cec0575ec3f6a67e6e5b1ffb808a5d0605b649b232a655c286a
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923648
-MD5sum: c2659fdef4a7b7dc10e83f2482bbac70
-SHA1: 9c0437a090d30436088b845076bc623e32404284
-SHA256: dd20ee49616e5a806cd8840e75d67ed59856bbd430f4233469a31a41976a96fd
+MD5sum: e38bb674d6b74528e2f7a30a32688a10
+SHA1: 09414ce082f40d4d4661784e2afcf62452c1035b
+SHA256: a72968cd679a032b7ee7952d660074281a75a5861cc39275693cce9d5bcc7337
 Section: System
 Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
 Tag: role::developer
@@ -31,17 +31,17 @@ Author: iosusr <iosusr@outlook.com>
 Name: iPhone 7 wallpapers
 
 Package: com.osxusr.xcon
-Version: 43
+Version: 42~beta2
 Architecture: iphoneos-arm
 Maintainer: iosusr
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Filename: ./debs/com.osxusr.xcon_43_iphoneos-arm.deb
-Size: 142326
-MD5sum: 1dac492e7d7b1a2f241efd730edfb6cf
-SHA1: af79c5c43141d7f92504c63cdba7372e50db6288
-SHA256: bf63db0ca9c91c5013c307ce85b9352e37fdb4a9e577e4c633e39e28e8b22e41
+Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
+Size: 142334
+MD5sum: 7905ff337649b096ce7c7c2e94c71b20
+SHA1: 85b4778e11b3e3b5254fef444c9c4cd332884afe
+SHA256: cd84d0d092c240112a75cf76020fd5df15d6da3d0418f6731f8aaa543d852e9f
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr
@@ -55,9 +55,9 @@ Essential: yes
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
 Size: 96868
-MD5sum: 7a23cd39ca5ebe20cedee70366465a83
-SHA1: 7fcd267f9624c29a0d044d601e931c6d0ccd8079
-SHA256: 7df1f9d79a7b2225bca90f16689c6c8220a8c64578be24b2574248b6579ccd6b
+MD5sum: a21fe2546cea7f20f182d2ac2ccc4ef2
+SHA1: 2a99435bc8c2bd1330a1d7d312493c9c8d786767
+SHA256: 6d10b4fd89712780041ffe7bcdeeb280fc2f599500c0b91c9ffb562a92b20751
 Section: System
 Priority: Important
 Description: taig untether jailbreak for ios8.1.3-ios8.3
