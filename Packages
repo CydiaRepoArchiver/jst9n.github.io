@@ -1,13 +1,30 @@
+Package: boerse.flex
+Version: 1.05
+Architecture: iphoneos-arm
+Maintainer: Scunkaneli <scunkaneli@iphone-partisanen.com>
+Installed-Size: 763
+Depends: firmware(>= 5.0), mobilesubstrate
+Filename: ./debs/boerse.flex_1.05_iphoneos-arm.deb
+Size: 413456
+MD5sum: 50ae7bce4db13a91da263185f271511e
+SHA1: 2fcea8b1093e47c51119d412bca3a6104fa53a72
+SHA256: 121f57b8ae8fc14eeff238516fd8cc6ba01525c2f3973b301b77afeed6fcde7e
+Section: Boerse.BZ
+Description: Make your own tweaks, easily!
+Author: John Coates <acapulco1988@gmail.com>
+Depiction: http://boerse-repo.net/depiction/d.php?package_id=boerse.flex
+Name: Flex
+
 Package: com.iosusr.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Depends: firmware(>= 5.0), WinterBoard
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
-Size: 1923516
-MD5sum: 3c1b97e93e3925c8c2ee82fcdf5f73a8
-SHA1: 9769461a05fc63af100a05a44359a2f70fe9c039
-SHA256: dea62c4e79cfcb0f8525904bb2679c294c1434acf6b1d4321aed261d25972c54
+Size: 1923518
+MD5sum: cdeb8d885207cbed68bf2ebe3bb4ffe3
+SHA1: c12873655b581eb24291bdb163111d35c4b5a351
+SHA256: 286a648999d536a557a697a4936651c1d494ec8a3e7c155231a7065a34ef45ba
 Section: Wallpapers
 Description: iPhone 7 wallpapers
 Author: iosusr <iosusr@outlook.com>
@@ -19,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Filename: ./debs/com.iosusr.taiguntether83x_1.0_iphoneos-arm.deb
 Size: 648
-MD5sum: 389fce6594c70636c0002695ae2f4b0e
-SHA1: 87706facc84ad14d659b0b1bc031b08ad7aa8696
-SHA256: b3d277abaa688520d19a84777d53e0f709ca3c0c18e3546934eb2ab883f03b16
+MD5sum: 5fa187001b6d78257260c889a73038c8
+SHA1: f4b4eeccea308d4b594a6e6dbb43a4520987a3fd
+SHA256: c201c31085d7e812381549e40ae37f50373cd38e01ba298d67b90d88b314faeb
 Section: Utilities
 Description: untethered jailbreak for 8.3 using Taig
 Author: iosusr <iosusr@outlook.com>
