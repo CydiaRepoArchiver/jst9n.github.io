@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413420
-MD5sum: 8ccc213bf4a2fb45e63e01bd9a7a137c
-SHA1: e6fe793bc2d389d03291078f85b8dd876b041074
-SHA256: 7e56c19318794cec0575ec3f6a67e6e5b1ffb808a5d0605b649b232a655c286a
+MD5sum: 3e34b688a6f7c94d5adfa72a0c6e2d52
+SHA1: 1e882dbe90d01239017535cc89388438174791cd
+SHA256: 477e90e91ba0966cba95e11c971e1f3192a7ee34134b2038725c5f7d66219233
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: John Coates <acapulco1988@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923648
-MD5sum: e38bb674d6b74528e2f7a30a32688a10
-SHA1: 09414ce082f40d4d4661784e2afcf62452c1035b
-SHA256: a72968cd679a032b7ee7952d660074281a75a5861cc39275693cce9d5bcc7337
+MD5sum: 08c5d45a0f63902bbd4bd34aefa978da
+SHA1: 115b45382205a7fafc5c2917e9b5c6d06028df37
+SHA256: fcdd1eb34c08f083da0010923fd19976155213a62e138c5dd15700f023f23cd1
 Section: System
 Description: Complete archive of "Live" wallpapers available on the iPhone 6s and iPhone 6s Plus
 Tag: role::developer
@@ -39,9 +39,9 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
 Size: 142334
-MD5sum: 7905ff337649b096ce7c7c2e94c71b20
-SHA1: 85b4778e11b3e3b5254fef444c9c4cd332884afe
-SHA256: cd84d0d092c240112a75cf76020fd5df15d6da3d0418f6731f8aaa543d852e9f
+MD5sum: f04e93123a7fc1911f166e0d41305469
+SHA1: 6dfb18dfbd0b8a6d14ef9efd67441efbe1bbfc4b
+SHA256: 06029ba165978333ceb87d39a82b22cfb911dd04d4feaf2d9f5ce3d3e89b560e
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr
@@ -51,15 +51,13 @@ Name: xCon
 Package: taiguntether83x
 Version: 2.1
 Architecture: iphoneos-arm
-Essential: yes
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
-Size: 96868
-MD5sum: a21fe2546cea7f20f182d2ac2ccc4ef2
-SHA1: 2a99435bc8c2bd1330a1d7d312493c9c8d786767
-SHA256: 6d10b4fd89712780041ffe7bcdeeb280fc2f599500c0b91c9ffb562a92b20751
+Size: 96828
+MD5sum: c9a8efb85039857d176a49388e9b3416
+SHA1: 52c0c4f11384c4a170371fd039cb05f2be7f8ad6
+SHA256: e4f597293ae4d002a86d04180a2bcdcc1592cbd7b7956352e89bced07bf156bc
 Section: System
-Priority: Important
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG
 Depiction: http://www.taig.com/cydia/update8.html
