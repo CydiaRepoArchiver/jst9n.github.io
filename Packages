@@ -2,11 +2,12 @@ Package: com.iosusr.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
+Depends: WinterBoard
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
-Size: 1924114
-MD5sum: 228fb7911896cda12092acb9f5125bbc
-SHA1: cd9b4ba84d7a0a056b89a96c5bec7517b72bb662
-SHA256: f5ee3323a939aabd855e03be7bfa30fc77413006554edf229343ed75cd088110
+Size: 1924122
+MD5sum: eec245ce09357fae49f84d431748c973
+SHA1: ffb82f4afb30bdcdf8fc65f6eaf89dd1f1524b75
+SHA256: c6684018ee1f8f8e34b39f163552b134f0b6ea3ae397502abbda61aa9a347b49
 Section: Wallpapers
 Description: iPhone 7 wallpapers
 Author: iosusr <iosusr@outlook.com>
@@ -18,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Filename: ./debs/com.iosusr.taiguntether83x_1.0_iphoneos-arm.deb
 Size: 870
-MD5sum: 917ac318869d9ba716df049650783660
-SHA1: a60654acbeec4b5a7cee5f6b69088104d07a54b6
-SHA256: f230105399901c68ba948bdc57cb8d0232f183a2dec4530f70f4ad5b2c5feea6
+MD5sum: 8e81f41e8cdc24dc88a1f2e4829ad8b9
+SHA1: ec2f495eb8e41c076456dadc33a1ad681bde6630
+SHA256: 313308f1a567740ffb017c6889508da051e1e79aac2a11ce7236daefe9f1f6f5
 Section: Utilities
 Description: untethered jailbreak for 8.3 using Taig
 Author: iosusr <iosusr@outlook.com>
