@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 Package: com.osxusr.xcon
+=======
+Package: com.iosusr.xcon
+>>>>>>> origin/master
 Name: xCon
 Depends: mobilesubstrate
-Version: 42~beta2
+Version: 43
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection
+<<<<<<< HEAD
 Maintainer: osxusr
 Author: osxusr
+=======
+Maintainer: iosusr
+Author: iosusr
+>>>>>>> origin/master
 Section: Tweaks
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
