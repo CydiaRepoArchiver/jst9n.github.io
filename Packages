@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413318
-MD5sum: 1da8144c47f7df59a942d11c727cd063
-SHA1: 0ec51dd1e4938dfa1b368617532fe4ffe2b579c7
-SHA256: af3852dc46ff1421e77c737726d3e5f5929f96b3c559ed4e0839a4531faa7d69
+MD5sum: ac6fa298f96dbbcbb4689c66858dcfb3
+SHA1: 441dbb6882d8a769df231e5c51efd70648361cc5
+SHA256: 337ab003eb299901b337e67e7988d705b424f2adabaffbbc6a7d1f45592b9467
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: iosusr <iosusr@outlook.com>
@@ -21,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923568
-MD5sum: e0ce0c4ec83c6390a8752659994bed83
-SHA1: cb5af9a13709958a9ca34ae67edb6e6d59ec7461
-SHA256: b3124dd49d02a2ee14e8717549ff2ca5a3b500e4abb59467ce61f880a46711c9
+MD5sum: 9f9ef20f39f0f04699115ad254c24ebc
+SHA1: dd1a51b9590c8122ec047c97d886e826953d5550
+SHA256: fd6a7e95e69ee844b6d9e0dca8c0d40d96615cd6a8b1dd1a0f3ee6bb36eb4f40
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
@@ -37,9 +37,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Installed-Size: 5819
 Filename: ./debs/com.iosusr.ishshit_1.2.1_iphoneos-arm.deb
 Size: 3377548
-MD5sum: 072af66ede9e42cb11b1cdd9a778593c
-SHA1: 4275f8570043f3e20201001a550b8b7de60c877c
-SHA256: 8b670679bb2fac6e965b317180ade0e3c621a2e94bbbc741dd5737c2dfef9230
+MD5sum: e93ebcaf50974fa84d135e528bf7b1f3
+SHA1: b86e33f2293aefb9e538dd4865898f583d98166c
+SHA256: e74eae3dfa6ed4729caecf99474d35e60dde2f105b1a503206a8aa783fe51f8c
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Description: Easily backup firmware SHSH blobs “Updated to Support iOS 9 will add more devices in the future”!
@@ -58,14 +58,34 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
 Size: 142342
-MD5sum: fe2f9af1af7f544e792889ada7f15b95
-SHA1: 771254449d12d3e16d43d260128c6f280867a539
-SHA256: 5113245649c1ed0d3a22ccc24936734555c4377c833ff7de0a1d1ba80139a4df
+MD5sum: 60226b1c0c58cf6fcedb2fc60e383b03
+SHA1: aa5ed0c77f9c4c6eb0de2e54a1e19b7fce503229
+SHA256: 3b4fcc737753abb764be169a4be4b8dfab2de5a4849f8fe0bf0e346a725c2259
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr <iosusr@outlook.com>
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Name: xCon
+
+Package: com.saurik.impactor
+Version: 0.9.32
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: firmware (>= 7.1), firmware (<= 9.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/com.saurik.impactor_0.9.32_iphoneos-arm.deb
+Size: 354544
+MD5sum: 1313408c3852ff26dc72714900705e6f
+SHA1: ca99556c7c4c09c0dcb89743f920bf0a5dc9b9e0
+SHA256: f8b0fc3ccbba083f051d0ea573b7a85cb76a4c34e9a14b1aed687b7764bae81c
+Section: Utilities
+Priority: optional
+Description: specific utility to unjailbreak most devices
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
+Icon: file:///Applications/Eraser.app/Icon-60.png
+Name: Cydia Eraser
 
 Package: taiguntether83x
 Version: 2.1
@@ -73,9 +93,9 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
 Size: 96796
-MD5sum: 0c6ae5affdd1d2a21464866229e8fa4a
-SHA1: 19840af35b5df3baa35f9186492b07dd03fd37fa
-SHA256: abd01fcfab82e726ef19ce3d8d977f99f3121fd19e6740e0553e8f131b0d3183
+MD5sum: 4d8d58ab48e76a6aeca78fbe9acc3164
+SHA1: 59f409213b0ec4034640c0a6954fcbc2851a57fa
+SHA256: 70e5ed05b01b7ec3879202c5b7cb518141e9b5105bc9319fc6abf9b05fffc77f
 Section: System
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG
