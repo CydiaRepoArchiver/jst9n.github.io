@@ -1,3 +1,23 @@
+Package: com.iosusr.eraser
+Version: 0.9.32
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: firmware (>= 7.1), firmware (<= 9.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/com.iosusr.eraser_0.9.32_iphoneos-arm.deb
+Size: 354560
+MD5sum: f4139bc64d1b6d081e38addd2e37f136
+SHA1: d3e62ca25eb3407c64ad2d93e8cd26f1d7afcc4b
+SHA256: ec52273f6e4fd851f9ee99747ede1ba229e2f76205fdca4959358e6d14674198
+Section: Utilities
+Priority: optional
+Description: specific utility to unjailbreak most devices
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
+Icon: file:///Applications/Eraser.app/Icon-60.png
+Name: Cydia Eraser
+
 Package: com.iosusr.flex
 Version: 1.05
 Architecture: iphoneos-arm
@@ -6,9 +26,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413318
-MD5sum: a787c8fe54573652d4bc5b00b5dcdf75
-SHA1: 59a1bafb4aa96d103ae8be3c6bca79a6e1f54aae
-SHA256: 273fcebe770a05df5fe29ae826f4cb589ba6a1cc2d9208ac3f8e66cfdf9a0459
+MD5sum: c3a42f5f041e5251127c67fd67a25bdc
+SHA1: b2548036b88f9f00a60cba81cc3fe7ecad69d8d7
+SHA256: 0d0d9bc54798e773617db7e9a52150479573c59f06899db0998945d190fca9ba
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: iosusr <iosusr@outlook.com>
@@ -21,34 +41,14 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923568
-MD5sum: fe839c733698deb9b39d7daac8be1ada
-SHA1: 51b6b427818d87c81ea823e8371b9abde403a45d
-SHA256: 2389d9df15d726437df7c7532af70c536c563542efe4fbdda614ae1302444857
+MD5sum: e8a5ba525951774f2b5d9a570e21828a
+SHA1: 56f2532f65ea70b8a9ea1a125630987626e947dc
+SHA256: 02959b31c9a8239f6f90ef38f46af1d6a45265fff2f3feff81043d4ffb96b0b0
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
 Author: iosusr <iosusr@outlook.com>
 Name: iPhone 7 wallpapers
-
-Package: com.iosusr.impactor
-Version: 0.9.32
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Depends: firmware (>= 7.1), firmware (<= 9.3.3)
-Breaks: com.saurik.patych (<< 1.0.1)
-Filename: ./debs/com.iosusr.impactor_0.9.32_iphoneos-arm.deb
-Size: 354560
-MD5sum: c1347e6cf671e5e90c06dbb2b14e6cb7
-SHA1: d61c506a7499ddf672a1ac83a5cc4bf4667e7541
-SHA256: 0af16966b3590a74db5a995fb417846e137369fbc4abf545da6a985e254b986d
-Section: Utilities
-Priority: optional
-Description: specific utility to unjailbreak most devices
-Tag: purpose::uikit, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
-Name: Cydia Eraser
 
 Package: com.iosusr.ishshit
 Version: 1.2.1
@@ -57,9 +57,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Installed-Size: 5819
 Filename: ./debs/com.iosusr.ishshit_1.2.1_iphoneos-arm.deb
 Size: 3377548
-MD5sum: 240a2de03dc7ae06c60b300bd42fa841
-SHA1: a206a5a42e903888f1d7e033964b0fb1268ed141
-SHA256: 72048564b858913ec897fa8edf8faf81a68840c92a2b53d743b34a4f31f09f33
+MD5sum: c5eec721066da122d084beb01ba34f65
+SHA1: be94df51b673163e6ea399f533df8ed743233c7e
+SHA256: 9c5de3928fe67bba30f92d1150eb3692a1393de6fcc172141b0e38ff76c33fa4
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Description: Easily backup firmware SHSH blobs “Updated to Support iOS 9 will add more devices in the future”!
@@ -74,10 +74,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @iosusr <iosusr@gmail.com>
 Filename: ./debs/com.iousr.generator_1.0_iphoneos-arm.deb
-Size: 1210
-MD5sum: 2bdf4af37f9515f144e37300cb68f7b2
-SHA1: 729bf9c9f364ffc0db20e960788ca6e45be89289
-SHA256: 6fc33485554a1aff7c256f668ecbf1b6f832098eebb8003446a24ee052392ced
+Size: 1206
+MD5sum: f7ee0af31c2a1da09df4cac8ac3bee40
+SHA1: 5f8c2180514f17448df7bacc9f88ba9caa88edbb
+SHA256: 9f7e89fa515ef1510c6da25239ff23e2f14c02465d03a12186b35071d091aab5
 Section: Tweaks
 Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
 Author: @iTrickz <iTrickz@gmail.com>
@@ -92,9 +92,9 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
 Size: 142342
-MD5sum: 58971414e00f0cbeea8a2779ee665ae7
-SHA1: 685910e305c37b4523eb80fd36da58f4556ef3b5
-SHA256: 8fd4c8a5c2625b72c47a115dba3be427841225bd0022afe2f0c80551974093af
+MD5sum: b00cc5d21b5aff2117b6672a30e1f691
+SHA1: b6046079be0a8e7dc5c799af03b7f241916a8c5c
+SHA256: e1f954fbba21bec5d52454464451827bcabd452d543353bf43b306da539bf2c8
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr <iosusr@outlook.com>
@@ -107,9 +107,9 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
 Size: 96796
-MD5sum: 503b040ada26ba61062b5b8345abba18
-SHA1: 1f3663c720488003e7f95752b3eb8f52f18956ea
-SHA256: 5b506330ca3d7960634f02ef7b31d43ff3f526c275dfbb00163c1da663d5ea68
+MD5sum: 6bcfbfb764eb4c3d5a61a69371f26c6c
+SHA1: 63d5e9c3d931f3d333d181a8b7ac9c8c4de3d7f3
+SHA256: e947b12f1811043c9dc5804381dec811af5f43b31ae01fe7fa362b5690c0cf9d
 Section: System
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG
