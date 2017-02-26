@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413318
-MD5sum: 4dda60c73bf205ef2c425e88e64da18a
-SHA1: 3f1b2e7eb5623208bf355d1a3ceed9a9ad6e077b
-SHA256: 48f02c9550c82b3ff27e6e1f81778abba1abe6d07ccd1b6e76ee4e86d9abfa6c
+MD5sum: e59e4d802c7e7ecef5128bab6346ab8e
+SHA1: 10395c3739bfc14331e3037de44cd7d56d3cef5f
+SHA256: 5cd64c41290c6300fd603ea271f21f88693c442486281ca5a6117804b3e7bcbc
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: iosusr <iosusr@outlook.com>
@@ -21,14 +21,34 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923568
-MD5sum: 02feb9465133bda4da251f71397333fe
-SHA1: 043589ce07c71be3aacaf2c6883bc3ba22152853
-SHA256: 0cabab3f7a545a27e781fc76965d01e88e17b34f32f996cdd5b607d04fdd93cf
+MD5sum: 8f57a65e6827b77607eeb455163a98f3
+SHA1: 9b7743463c5990f7307be25e8c63d9538aadc301
+SHA256: c10fc2cc9415a29ba109017e15f042be2bad3aea878371ecf4adf60f3fe37244
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
 Author: iosusr <iosusr@outlook.com>
 Name: iPhone 7 wallpapers
+
+Package: com.iosusr.impactor
+Version: 0.9.32
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: firmware (>= 7.1), firmware (<= 9.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/com.iosusr.impactor_0.9.32_iphoneos-arm.deb
+Size: 354560
+MD5sum: bb2c036eac06b4b4b7df3927056e8065
+SHA1: b0a3737df0e7de07dd53262710e3ba51551187e0
+SHA256: 78cf548f8da174b9f5db38a0f04db8617a81c8a71e124762db2e0214a3cb65b5
+Section: Utilities
+Priority: optional
+Description: specific utility to unjailbreak most devices
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
+Icon: file:///Applications/Eraser.app/Icon-60.png
+Name: Cydia Eraser
 
 Package: com.iosusr.ishshit
 Version: 1.2.1
@@ -37,9 +57,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Installed-Size: 5819
 Filename: ./debs/com.iosusr.ishshit_1.2.1_iphoneos-arm.deb
 Size: 3377548
-MD5sum: 3a71cee4869de3818cc9d8a74ffbba80
-SHA1: a3e630f377559b4013354ad4606bd86a7bc8c0b1
-SHA256: 21320892e7f24880e3bf91780b6040456f49a293c02f4431b82feb698fd3cfdd
+MD5sum: 1a687ea124b1bbd27c1bc6397cb9c00e
+SHA1: fa2fdb753550eeb7eea7cf3460a5a90a2f9703e7
+SHA256: 0b2a671a978e41a2f5f0a4ce5c1598e2d799c07bdd5023c70cd896739a56e90c
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Description: Easily backup firmware SHSH blobs “Updated to Support iOS 9 will add more devices in the future”!
@@ -58,34 +78,14 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
 Size: 142342
-MD5sum: 2081db446bf244cfebcc89100ef7be78
-SHA1: 197f17eab668aaea524f304dba3093c2d79912e0
-SHA256: 7a3b299a673980a02aba5ea73badd2e98ef92311fb349823a5d0f5fc86ba0479
+MD5sum: 190eb1f1e03a8505087149370641102c
+SHA1: 158e9e7f4610bc779fd554c8b8c972cee568f945
+SHA256: 6a7255b914ce09f2117ec86a6149ee7915ab8ad2ffbb3289578f257103c6651f
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr <iosusr@outlook.com>
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 Name: xCon
-
-Package: com.saurik.impactor
-Version: 0.9.32
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Depends: firmware (>= 7.1), firmware (<= 9.3.3)
-Breaks: com.saurik.patych (<< 1.0.1)
-Filename: ./debs/com.saurik.impactor_0.9.32_iphoneos-arm.deb
-Size: 354560
-MD5sum: 1dc0de195dd3d5430e395fb871bbfbe6
-SHA1: 768dc1b9590ab3b59165fef8556b7c0e02c26cad
-SHA256: 956f48eba9a5c18917d4766683ecc85189c92d45320da2a056da482f106f1b81
-Section: Utilities
-Priority: optional
-Description: specific utility to unjailbreak most devices
-Tag: purpose::uikit, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
-Name: Cydia Eraser
 
 Package: taiguntether83x
 Version: 2.1
@@ -93,9 +93,9 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
 Size: 96796
-MD5sum: 053aefd84ca4cc54a59e8dc200993283
-SHA1: 5c77cbef970b9d15eda30992544dc9c6e67418f0
-SHA256: 678b67f5dcfc2e6cc3a24b98ceb51d42b574483a97853e7645e87960966e1e07
+MD5sum: 7c9d67d006101f73da254189a05e2075
+SHA1: bcfb5466cb341767dd428ec640a742e91e58bfab
+SHA256: 3d5227cbeee0a63e49e56dcb540289f79bc128f8f1cc63ed29510824e8c6a4b3
 Section: System
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG
