@@ -6,9 +6,9 @@ Installed-Size: 763
 Depends: firmware(>= 5.0), mobilesubstrate
 Filename: ./debs/com.iosusr.flex_1.05_iphoneos-arm.deb
 Size: 413318
-MD5sum: e59e4d802c7e7ecef5128bab6346ab8e
-SHA1: 10395c3739bfc14331e3037de44cd7d56d3cef5f
-SHA256: 5cd64c41290c6300fd603ea271f21f88693c442486281ca5a6117804b3e7bcbc
+MD5sum: 2fae2a39ee7522bcc0049739a43965b1
+SHA1: 55146332629821e9106305723e6c5c64e6775ea6
+SHA256: 8f0990f785e949c855a8eb6eab397fe35d01705c502efaca7134f93f78cd6b87
 Section: Tweak
 Description: Make your own tweaks, easily!
 Author: iosusr <iosusr@outlook.com>
@@ -21,9 +21,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923568
-MD5sum: 8f57a65e6827b77607eeb455163a98f3
-SHA1: 9b7743463c5990f7307be25e8c63d9538aadc301
-SHA256: c10fc2cc9415a29ba109017e15f042be2bad3aea878371ecf4adf60f3fe37244
+MD5sum: 96cb5d40fe053c3f82ea3a4b79ff3462
+SHA1: 6a58c79864514819cc5c3b7bfd9bedfb99edcbfc
+SHA256: a1e57356d839036d2b024f4b34f8e6e357828af912cdabc7e6ebb787a4225f97
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
@@ -38,9 +38,9 @@ Depends: firmware (>= 7.1), firmware (<= 9.3.3)
 Breaks: com.saurik.patych (<< 1.0.1)
 Filename: ./debs/com.iosusr.impactor_0.9.32_iphoneos-arm.deb
 Size: 354560
-MD5sum: bb2c036eac06b4b4b7df3927056e8065
-SHA1: b0a3737df0e7de07dd53262710e3ba51551187e0
-SHA256: 78cf548f8da174b9f5db38a0f04db8617a81c8a71e124762db2e0214a3cb65b5
+MD5sum: 67dbde025c123edede9538885de65fe6
+SHA1: 88610f18cdb997ffaa32970027293acbc6b6908f
+SHA256: 628f603502add69f4f6af1d6abe471a79921e9b7e7f5fbe7c1b073eafd9f9516
 Section: Utilities
 Priority: optional
 Description: specific utility to unjailbreak most devices
@@ -57,9 +57,9 @@ Maintainer: iosusr <iosusr@outlook.com>
 Installed-Size: 5819
 Filename: ./debs/com.iosusr.ishshit_1.2.1_iphoneos-arm.deb
 Size: 3377548
-MD5sum: 1a687ea124b1bbd27c1bc6397cb9c00e
-SHA1: fa2fdb753550eeb7eea7cf3460a5a90a2f9703e7
-SHA256: 0b2a671a978e41a2f5f0a4ce5c1598e2d799c07bdd5023c70cd896739a56e90c
+MD5sum: c9e9cd2cd247614e2a391f2aada678ea
+SHA1: 4a8ecac0fbdee128c969fd1f8518ac4a3da6d26a
+SHA256: 205d209ffbbef91fada0b08cc2b93c55968bb2ea0024d28e6b6121d74410af22
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitData
 Description: Easily backup firmware SHSH blobs “Updated to Support iOS 9 will add more devices in the future”!
@@ -68,6 +68,20 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ishshitDat
 Dev: iosusr
 Icon: file:///Applications/iSHSHit.app/Icon.png
 Name: iSHSHit
+
+Package: com.iousr.generator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @iosusr <iosusr@gmail.com>
+Filename: ./debs/com.iousr.generator_1.0_iphoneos-arm.deb
+Size: 1148
+MD5sum: 7ede96cb0f2ba0e64a492d7b92f0b85f
+SHA1: 6c1ea98a820494cf3c0ac38187a6afb8b036e9b8
+SHA256: 743401fa248b0010b6b8cba5fb29dc8eacb34ae0f79bb2365a0089ca83036b38
+Section: Tweaks
+Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
+Author: @iTrickz <iTrickz@gmail.com>
+Name: generator
 
 Package: com.osxusr.xcon
 Version: 42~beta2
@@ -78,9 +92,9 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Filename: ./debs/com.osxusr.xcon_42~beta2_iphoneos-arm.deb
 Size: 142342
-MD5sum: 190eb1f1e03a8505087149370641102c
-SHA1: 158e9e7f4610bc779fd554c8b8c972cee568f945
-SHA256: 6a7255b914ce09f2117ec86a6149ee7915ab8ad2ffbb3289578f257103c6651f
+MD5sum: 8e089c987c0e90be1d8239bb5f6a7da0
+SHA1: 4f67cee4e2396137cd97df214d0d140c806b5dd3
+SHA256: 6463a7a59ec9956075c32a367d022940f507f3d07115b72e0c24ab957d97c125
 Section: Tweaks
 Description: bypass anti-jailbreak protection
 Author: iosusr <iosusr@outlook.com>
@@ -93,9 +107,9 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 8.1.3),firmware (<= 8.3)
 Filename: ./debs/taiguntether83x_2.1_iphoneos-arm.deb
 Size: 96796
-MD5sum: 7c9d67d006101f73da254189a05e2075
-SHA1: bcfb5466cb341767dd428ec640a742e91e58bfab
-SHA256: 3d5227cbeee0a63e49e56dcb540289f79bc128f8f1cc63ed29510824e8c6a4b3
+MD5sum: dd93a291d09ac3da4d5c33a4bd9d7f58
+SHA1: 1a621b741687ab5cfdd39b590333a702a6265571
+SHA256: ca627e023cf7adc635da9e7645b3ed752f8f8988bd04ad1be1b3614efd051449
 Section: System
 Description: taig untether jailbreak for ios8.1.3-ios8.3
 Author: TaiG

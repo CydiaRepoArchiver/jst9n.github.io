@@ -1,0 +1,8 @@
+Package: com.iousr.generator
+Name: generator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
+Maintainer: @iosusr <iosusr@gmail.com>
+Author: @iTrickz <iTrickz@gmail.com>
+Section: Tweaks

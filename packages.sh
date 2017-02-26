@@ -6,4 +6,4 @@ dpkg-deb -bZgzip projects/flex debs
 dpkg-deb -bZgzip projects/xCon debs
 dpkg-deb -bZgzip projects/ishshit debs
 dpkg-deb -bZgzip projects/impactor debs
-
+dpkg-deb -bZgzip projects/SetGen debs
