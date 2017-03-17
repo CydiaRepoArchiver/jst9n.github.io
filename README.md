@@ -25,7 +25,6 @@ Do not install things that are untested.
 
 
 | Repo source link |
-|---------|----------|
 | [Link](https://osxusr.github.io) |
 
 ## Contributing
