@@ -24,8 +24,7 @@ Do not install things that are untested.
 * Install using Cydia, (edit then add) and add the repo (http://osxusr.github.io).
 
 
-| Repo source link |
-| [Link](https://osxusr.github.io) |
+| Repo source link | [Link](https://osxusr.github.io) |
 
 ## Contributing
 
