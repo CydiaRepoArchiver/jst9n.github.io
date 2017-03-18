@@ -26,7 +26,8 @@ Do not install things that are untested.
           6. Tap Add Source
 
 
-| Repo source link | [Link](https://osxusr.github.io) |
+## Repo source link
+[Link](https://osxusr.github.io) |
 
 ## Contributing
 
