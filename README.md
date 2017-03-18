@@ -22,7 +22,7 @@ Do not install things that are untested.
           2. Tap the Sources tab
           3. Tap the Edit button
           4. Tap the Add button
-          5. Type: osxusr.github.io
+          5. Type: http://osxusr.github.io
           6. Tap Add Source
 
 
