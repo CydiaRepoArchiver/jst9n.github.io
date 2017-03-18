@@ -16,9 +16,7 @@ This pubic cydia repo is a work in progress. Some things do not work, but most t
 
 Do not install things that are untested.
 
-## Installing
-
-<h2 role="header">Manual Instructions</h2>
+## Manual Instructions
 
           1. Open Cydia
           2. Tap the Sources tab
