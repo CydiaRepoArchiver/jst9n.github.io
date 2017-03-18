@@ -23,6 +23,15 @@ Do not install things that are untested.
 * Download the pre-compiled version from the table below.
 * Install using Cydia, (edit then add) and add the repo (http://osxusr.github.io).
 
+<h2 role="header">Manual Instructions</h2>
+
+          1. Open Cydia
+          2. Tap the Sources tab
+          3. Tap the Edit button
+          4. Tap the Add button
+          5. Type: osxusr.github.io
+          6. Tap Add Source
+
 
 | Repo source link | [Link](https://osxusr.github.io) |
 
