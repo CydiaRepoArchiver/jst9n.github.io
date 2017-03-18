@@ -6,6 +6,10 @@ A "work in progress" public cydia repo created by [iosusr](https://twitter.com/i
 
 Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
 
+## Cydia repo source
+
+[Link](https://osxusr.github.io)
+
 ### Planned Support:
 
 In the near future, i will add more packages/debs to the cydia repo.
@@ -24,10 +28,6 @@ Do not install things that are untested.
           4. Tap the Add button
           5. Type: http://osxusr.github.io
           6. Tap Add Source
-
-
-## Cydia repo source
-[Link](https://osxusr.github.io)
 
 ## Contributing
 
