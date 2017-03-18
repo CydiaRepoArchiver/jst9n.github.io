@@ -7,7 +7,6 @@ A "work in progress" public cydia repo created by [iosusr](https://twitter.com/i
 Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
 
 ## Cydia repo source
-
 [Link](https://osxusr.github.io)
 
 ### Planned Support:
