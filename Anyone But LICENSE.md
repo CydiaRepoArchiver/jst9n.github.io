@@ -1,6 +1,6 @@
 This piece of code is licensed under the "Anyone but Stefan Esser" (ABSE) license, described below. No other licenses may apply.
 
-The "Anyone But Stefan Esser" license
+The "Anyone But Stefan Esser, ItzGeb, pythonsn0w" license
 
 Do anything you want with this code, with the exceptions listed below under "EXCEPTIONS".
 
@@ -11,3 +11,7 @@ In the unlikely event that you happen to make a zillion bucks off of this, then 
 EXCEPTIONS
 
 Stefan Esser (i0n1c, that one angry german guy, etc.) may not make use of or redistrubute this program or any of its derivatives.
+
+ItzGeb (that one young salty teenager, etc) may not make use of or redistrubute this program or any of its derivatives.
+
+PythonSn0w (that one young despressed teenager, etc) may not make use of or redistrubute this program or any of its derivatives.
