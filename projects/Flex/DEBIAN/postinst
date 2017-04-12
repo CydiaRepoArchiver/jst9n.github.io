@@ -1,8 +1,0 @@
-#!/bin/sh
-
-#give root privledges
-#chown 0:0 /Applications/Flex.app/Flexapp
-
-echo "Thanks for purchasing Flex!"
-
-exit 0
