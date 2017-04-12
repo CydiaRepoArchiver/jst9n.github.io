@@ -1,3 +1,17 @@
+Package: com.iosusr.generator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @iosusr <iosusr@gmail.com>
+Filename: ./debs/com.iosusr.generator_1.0_iphoneos-arm.deb
+Size: 1196
+MD5sum: 2195a7f3ddee76de61993e7962c5a0a2
+SHA1: 56e083a727c839ca3f5face8c2280b1654e9bddc
+SHA256: 13bbfb3cb7b75bf734639508f22358ed20f68ffc333b8ee31dc5bf17d2200d88
+Section: Tweaks
+Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
+Author: @iTrickz <iTrickz@gmail.com>
+Name: generator
+
 Package: com.iosusr.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
@@ -5,26 +19,12 @@ Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
 Size: 1923566
-MD5sum: feab883930e77d9874fc914646fec9ef
-SHA1: 3010082e076c8339262f112e502b0b9f0ebd0d7a
-SHA256: 41cb4040f15f9099bd9d68ae3c559166390cc346b879fe85d251f7d73aa46f08
+MD5sum: bcc37b1e2cf0f1bbce846924929091df
+SHA1: d2a98741b16c91274d5f882ea5d9522c3bc11ac8
+SHA256: eff1480169a7dae7a38087dadac5a120cba0b7de8410660401bd0ddd4f4d7c35
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
 Author: iosusr <iosusr@outlook.com>
 Name: iPhone 7 wallpapers
-
-Package: com.iousr.generator
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: @iosusr <iosusr@gmail.com>
-Filename: ./debs/com.iousr.generator_1.0_iphoneos-arm.deb
-Size: 1192
-MD5sum: b796a23e5b6013d0e50ec88f152c61ec
-SHA1: 6c0644541703887a16f7f003f851ba08fb284734
-SHA256: 3e18d8287d40beefcacd734df11206e91a1675a953b99c2234f2c1f81a4f0840
-Section: Tweaks
-Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
-Author: @iTrickz <iTrickz@gmail.com>
-Name: generator
 
