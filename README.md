@@ -18,15 +18,6 @@ This pubic cydia repo is a work in progress. Some things do not work, but most t
 
 Do not install things that are untested.
 
-## Manual Instructions
-
-          1. Open Cydia
-          2. Tap the Sources tab
-          3. Tap the Edit button
-          4. Tap the Add button
-          5. Type: http://iosusr.cf
-          6. Tap Add Source
-
 ## Contributing
 
 Create a fork of the repository, make your changes and then create a pull request.
