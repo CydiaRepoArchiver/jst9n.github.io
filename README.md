@@ -1,4 +1,4 @@
-# iosusrs public cydia repo
+# iosusr's public cydia repo
 ![iosusr logo](https://github.com/osxusr/osxusr.github.io/blob/master/CydiaIcon.png)
 
 A public cydia repo created by [iosusr](https://twitter.com/iosusr).
