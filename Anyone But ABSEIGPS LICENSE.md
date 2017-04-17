@@ -1,4 +1,4 @@
-This piece of code is licensed under the "Anyone but" (AB) license, described below. No other licenses may apply.
+This piece of code is licensed under the "Anyone but SE-IG-PS" (ABSEIGPS) license, described below. No other licenses may apply.
 
 The "Anyone But Stefan Esser, ItzGeb, PythonSn0w" license
 
