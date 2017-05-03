@@ -1,22 +1,12 @@
 # iosusr's public cydia repo
 ![iosusr logo](https://github.com/osxusr/osxusr.github.io/blob/master/CydiaIcon.png)
 
-A public cydia repo created by [iosusr](https://twitter.com/iosusr).
+A public cydia repo created by iosusr.
 
-Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
+Please use the "Issues" tab for **code related** issues only! If you need support please contact me on twitter [@iosusr (https://twitter.com/iosusr)
 
 ## Cydia repo source
 [Link](https://iosusr.cf)
-
-### Planned Support:
-
-In the near future, i will add more packages/debs to the cydia repo.
-
-## Warnings
-
-This pubic cydia repo is a work in progress. Some things do not work, but most things do.
-
-Do not install things that are untested.
 
 ## Contributing
 
