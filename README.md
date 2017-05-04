@@ -1,6 +1,6 @@
-# iosusr's public cydia repo
+# iosusr's website
 
-A public cydia repo created by iosusr.
+A website created by iosusr.
 
 ![iosusr logo](https://github.com/osxusr/osxusr.github.io/blob/master/Icon.png)
 
