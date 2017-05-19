@@ -1,12 +1,26 @@
+Package: com.iApeiron.Savethemblobs
+Version: 1.0b1
+Architecture: iphoneos-arm
+Maintainer: 2Klasic <derobi@icloud.com>
+Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
+Size: 24625236
+MD5sum: 9b45e13f93e8b74079e88449c5da9d25
+SHA1: 6957dfc2113c17bc8817506e8136e5ec9aa6f857
+SHA256: 7e0b1dc0e073683c52d23b660bd224d06a35e84400920d7ab2d41b05789449a5
+Section: Utilities
+Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
+Author: iAperion <aperion@hotmail.ca>
+Name: Savethemblobs
+
 Package: com.iosusr.generator
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @iosusr <iosusr@gmail.com>
 Filename: ./debs/com.iosusr.generator_1.0_iphoneos-arm.deb
-Size: 1196
-MD5sum: 2195a7f3ddee76de61993e7962c5a0a2
-SHA1: 56e083a727c839ca3f5face8c2280b1654e9bddc
-SHA256: 13bbfb3cb7b75bf734639508f22358ed20f68ffc333b8ee31dc5bf17d2200d88
+Size: 1188
+MD5sum: cef41eb57a63af89a9e839fddcfcdcb0
+SHA1: 21dea23f8b8b883be2201f33959080f25c925ca8
+SHA256: 6e9d06e12c3e551591d32100179ca37aec40b352afe2cf155520163d5bc69465
 Section: Tweaks
 Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
 Author: @iTrickz <iTrickz@gmail.com>
@@ -18,10 +32,10 @@ Architecture: iphoneos-arm
 Maintainer: iosusr <iosusr@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
-Size: 1923566
-MD5sum: bcc37b1e2cf0f1bbce846924929091df
-SHA1: d2a98741b16c91274d5f882ea5d9522c3bc11ac8
-SHA256: eff1480169a7dae7a38087dadac5a120cba0b7de8410660401bd0ddd4f4d7c35
+Size: 1923560
+MD5sum: c0f0f7f5ef221825f9d884ed53df9588
+SHA1: 58b6a82fc53f7c58a5c1bc94a0d691d37f346ab1
+SHA256: 07dd265b534229fddde5f13288b921110b502f54d96a8118c791dfe97c5c6e41
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
