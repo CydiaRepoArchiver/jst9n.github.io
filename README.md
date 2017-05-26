@@ -1,4 +1,4 @@
-# iosusr's website
+# fuck itzgeb & pythonsn0w
 
 A website created by iosusr.
 
