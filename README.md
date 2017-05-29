@@ -1,4 +1,4 @@
-# fuck itzgeb & pythonsn0w
+# fuck itzgeb, pythonsn0w & 1GamerDev
 
 A website created by iosusr.
 
