@@ -1,6 +1,6 @@
 # fuck itzgeb, pythonsn0w & 1GamerDev
 
-A website created by iosusr.
+A website created by shp0ng13.
 
 ![iosusr logo](https://github.com/osxusr/osxusr.github.io/blob/master/Icon.png)
 
