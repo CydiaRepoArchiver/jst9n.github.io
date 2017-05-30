@@ -1,11 +1,11 @@
-Package: com.iosusr.i7walls
+Package: com.shp0ng13.i7walls
 Name: iPhone 7 wallpapers
 Conflicts: livewallpapers6plus, livewallpapers
 Depends: 
 Architecture: iphoneos-arm
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
-Maintainer: iosusr <iosusr@outlook.com>
-Author: iosusr <iosusr@outlook.com>
+Maintainer: shp0ng13 <shp0ng13@outlook.com>
+Author: shp0ng13 <shp0ng13@outlook.com>
 Section: System
 Tag: role::developer
 Version: 1.1

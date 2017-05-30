@@ -3,42 +3,42 @@ Version: 1.0b1
 Architecture: iphoneos-arm
 Maintainer: 2Klasic <derobi@icloud.com>
 Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
-Size: 24625236
-MD5sum: 9b45e13f93e8b74079e88449c5da9d25
-SHA1: 6957dfc2113c17bc8817506e8136e5ec9aa6f857
-SHA256: 7e0b1dc0e073683c52d23b660bd224d06a35e84400920d7ab2d41b05789449a5
+Size: 24625100
+MD5sum: d638cfe348a0925478e5f238cdb9ed7a
+SHA1: 58a4f94b18e2214f99e20e76f4a5bbe6d9bbf46a
+SHA256: ddcfd718835892f8f261f11d0681e4b16ada16f09ecfcffc9ebb8524d719e1c8
 Section: Utilities
 Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
 Author: iAperion <aperion@hotmail.ca>
 Name: Savethemblobs
 
-Package: com.iosusr.generator
+Package: com.shp0ng13.generator
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: @iosusr <iosusr@gmail.com>
-Filename: ./debs/com.iosusr.generator_1.0_iphoneos-arm.deb
-Size: 1188
-MD5sum: cef41eb57a63af89a9e839fddcfcdcb0
-SHA1: 21dea23f8b8b883be2201f33959080f25c925ca8
-SHA256: 6e9d06e12c3e551591d32100179ca37aec40b352afe2cf155520163d5bc69465
+Maintainer: @shp0ng13<shp0ng13@gmail.com>
+Filename: ./debs/com.shp0ng13.generator_1.0_iphoneos-arm.deb
+Size: 1200
+MD5sum: c766367834a22483847be90cc5df7484
+SHA1: d43c6452dd66c8843651fdff1825b1fd90a4d13f
+SHA256: 7e60d493ca5d38aaf5621e4834c286fc0c3908c6e9c2164bdc7f28ba2412ff39
 Section: Tweaks
 Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
 Author: @iTrickz <iTrickz@gmail.com>
 Name: generator
 
-Package: com.iosusr.i7walls
+Package: com.shp0ng13.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: iosusr <iosusr@outlook.com>
+Maintainer: shp0ng13 <shp0ng13@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
-Filename: ./debs/com.iosusr.i7walls_1.1_iphoneos-arm.deb
-Size: 1923560
-MD5sum: c0f0f7f5ef221825f9d884ed53df9588
-SHA1: 58b6a82fc53f7c58a5c1bc94a0d691d37f346ab1
-SHA256: 07dd265b534229fddde5f13288b921110b502f54d96a8118c791dfe97c5c6e41
+Filename: ./debs/com.shp0ng13.i7walls_1.1_iphoneos-arm.deb
+Size: 1923570
+MD5sum: d3d38b55943f6a0e24b2843300cf5c92
+SHA1: 64a84fa4b8bc043b64de4a33d45929565f8d1e41
+SHA256: 28b491263031ccd8069f22758225c96210884f167af2874bdc30cd6dcb29e9f4
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
-Author: iosusr <iosusr@outlook.com>
+Author: shp0ng13 <shp0ng13@outlook.com>
 Name: iPhone 7 wallpapers
 
