@@ -1,8 +1,0 @@
-Origin: shpongle's cydia repo
-Label: shpongle's cydia repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: shpongle's cydia repo
