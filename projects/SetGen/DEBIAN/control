@@ -1,9 +1,0 @@
-Package: com.shp0ng13.generator
-Name: generator
-Version: 1.0
-Architecture: iphoneos-arm
-Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
-Maintainer: @shp0ng13<shp0ng13@gmail.com>
-Author: @iTrickz <iTrickz@gmail.com>
-Section: Tweaks
-
