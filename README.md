@@ -1,8 +1,10 @@
 # Website
 
+A website created by [jst9n](https://twitter.com/jst9n)
+
 ## Issues
 
-Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/shp0ng13)
+Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [jst9n](https://twitter.com/jst9n)
 
 ## Contributing
 
